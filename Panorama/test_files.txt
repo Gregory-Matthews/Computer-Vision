@@ -1,0 +1,15 @@
+test_data/DSC00097.png -260 0
+test_data/DSC00098.png -255 0
+test_data/DSC00099.png -270 0
+test_data/DSC00100.png -276 0
+test_data/DSC00101.png -268 0
+test_data/DSC00102.png -296 0
+test_data/DSC00103.png -306 0
+test_data/DSC00104.png -335 0
+test_data/DSC00105.png -300 0
+test_data/DSC00106.png -297 0
+test_data/DSC00107.png -340 0
+test_data/DSC00108.png -316 0
+test_data/DSC00109.png -368 0
+test_data/DSC00110.png -300 0
+test_data/DSC00111.png -240 0
