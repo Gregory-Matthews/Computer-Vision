@@ -1,3 +1,3 @@
 # Computer-Vision
-Drexel University Coursework for CS 583   
+Graduate Level Coursework Done. 
 Disclaimer: This code is not to be used for class assignments.
